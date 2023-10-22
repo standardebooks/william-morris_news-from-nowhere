@@ -45,9 +45,9 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3261</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<dc:source>https://archive.org/details/Newsfromnowhere00MorrA</dc:source>
 		<dc:source>https://archive.org/details/newsfromnowhere00morriala</dc:source>
+		<meta property="se:production-notes">This edition uses the text from the 1892 Kelmscott Press edition printed by Morris himself. Unfortunately the typeface used in that edition did not allow em dashes or italics. This Standard Ebooks edition has reverted the punctuation where possible back to the that found in the original Commonweal journal serialization.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/News_from_Nowhere</meta>
