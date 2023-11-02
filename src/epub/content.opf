@@ -39,9 +39,11 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85141635</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A man falls asleep after a socialist meeting and wakes up in a future utopia.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/william-morris"&gt;William Morris&lt;/a&gt; describes his ideal society in this novel published in 1890. A man, William Guest, wakes up to find himself transported to a future utopian society. This bucolic society functions despite the absence of private property, marriage, prisons, courts, schools, and central government. The people are happy, healthy, and hard working. As the narrator travels trough this revitalized England, he discovers how this society works and how it came to be.&lt;/p&gt;
+			&lt;p&gt;The 1888 utopian novel &lt;i&gt;Looking Backward&lt;/i&gt; by Edward Bellamy, describes a very different future utopian society where machines have reduced the need to work, and strong government redistributive policies have eliminated inequality. Morris wrote a critique of this novel, and &lt;i&gt;News from Nowhere&lt;/i&gt; presents Morris’ competing utopian vision. Specifically, in Morris’ ideal society, work is not something to be eliminated by machines, but rather a way to exercise creativity and as a way to grow closer both to nature and to others in society, not through coercion but through genuine appreciation. Morris emphasizes the need to change not only the material aspects of capitalism, but also the way society views work, the environment, and purpose in life.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;News from Nowhere&lt;/i&gt; is considered a landmark novel in anarchism and influenced many early twentieth century socialists.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3261</dc:source>
