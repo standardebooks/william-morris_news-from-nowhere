@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-morris/news-from-nowhere</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-11-07T21:12:26Z</dc:date>
+		<meta property="dcterms:modified">2023-11-07T21:12:26Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,17 +41,17 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A man falls asleep after a socialist meeting and wakes up in a future utopia.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/william-morris"&gt;William Morris&lt;/a&gt; describes his ideal society in this novel published in 1890. A man, William Guest, wakes up to find himself transported to a future utopian society. This bucolic society functions despite the absence of private property, marriage, prisons, courts, schools, and central government. The people are happy, healthy, and hard working. As the narrator travels trough this revitalized England, he discovers how this society works and how it came to be.&lt;/p&gt;
-			&lt;p&gt;The 1888 utopian novel &lt;i&gt;Looking Backward&lt;/i&gt; by Edward Bellamy, describes a very different future utopian society where machines have reduced the need to work, and strong government redistributive policies have eliminated inequality. Morris wrote a critique of this novel, and &lt;i&gt;News from Nowhere&lt;/i&gt; presents Morris’ competing utopian vision. Specifically, in Morris’ ideal society, work is not something to be eliminated by machines, but rather a way to exercise creativity and as a way to grow closer both to nature and to others in society, not through coercion but through genuine appreciation. Morris emphasizes the need to change not only the material aspects of capitalism, but also the way society views work, the environment, and purpose in life.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;News from Nowhere&lt;/i&gt; is considered a landmark novel in anarchism and influenced many early twentieth century socialists.&lt;/p&gt;
+			&lt;p&gt;William Guest wakes up to find himself transported to a future utopian society. This bucolic society functions despite the absence of private property, marriage, prisons, courts, schools, and central government. The people are happy, healthy, and hard working. As he travels through this revitalized England, he discovers how this society works and how it came to be.&lt;/p&gt;
+			&lt;p&gt;The 1888 utopian novel &lt;i&gt;Looking Backward&lt;/i&gt; by Edward Bellamy, describes a very different future utopian society, where machines have reduced the need to work, and strong government redistributive policies have eliminated inequality. &lt;a href="https://standardebooks.org/ebooks/william-morris"&gt;Morris&lt;/a&gt; disagreed with that prediction, and &lt;i&gt;News from Nowhere&lt;/i&gt; presents his competing utopian vision. Specifically, in Morris’ ideal society, work isn’t something to be eliminated by machines, but rather a way to exercise creativity and to grow closer both to nature and to others. Work is performed not through coercion but through genuine appreciation. Morris emphasizes the need to change not only the material aspects of capitalism, but also the way society views work, the environment, and the purpose of life.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;News from Nowhere&lt;/i&gt; is considered a landmark novel in anarchism and influenced many early twentieth century socialists. The first edition was serialized in the &lt;i&gt;Commonweal&lt;/i&gt; in 1890, before being published as a book, with some editorial changes, in 1891. In 1892, Morris published a final edition as one of the first books printed by his soon-to-be-legendary publishing company, the Kelmscott Press. It was printed by hand at his own home, and decorated and typeset by him using a typeface he designed.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3261</dc:source>
 		<dc:source>https://archive.org/details/Newsfromnowhere00MorrA</dc:source>
 		<dc:source>https://archive.org/details/newsfromnowhere00morriala</dc:source>
 		<meta property="se:production-notes">This edition uses the text from the 1892 Kelmscott Press edition printed by Morris himself. Unfortunately the typeface used in that edition did not allow em dashes or italics. This Standard Ebooks edition has reverted the punctuation where possible back to the that found in the original Commonweal journal serialization.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">78219</meta>
+		<meta property="se:reading-ease.flesch">66.91</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/News_from_Nowhere</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-morris_news-from-nowhere</meta>
 		<dc:creator id="author">William Morris</dc:creator>
@@ -76,6 +76,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
