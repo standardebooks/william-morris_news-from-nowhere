@@ -51,7 +51,7 @@
 		<dc:source>https://archive.org/details/newsfromnowhere00morriala</dc:source>
 		<meta property="se:production-notes">This edition uses the text from the 1892 Kelmscott Press edition printed by Morris himself. Unfortunately the typeface used in that edition did not allow em dashes or italics. This Standard Ebooks edition has reverted the punctuation where possible back to the that found in the original Commonweal journal serialization.</meta>
 		<meta property="se:word-count">78219</meta>
-		<meta property="se:reading-ease.flesch">66.91</meta>
+		<meta property="se:reading-ease.flesch">67.32</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/News_from_Nowhere</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-morris_news-from-nowhere</meta>
 		<dc:creator id="author">William Morris</dc:creator>
