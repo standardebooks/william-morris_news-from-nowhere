@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-32.xhtml">
 		<ignore code="s-023">
+			<line>12</line>
 			<reason>Proper titlecase not needed</reason>
 		</ignore>
 	</file>
