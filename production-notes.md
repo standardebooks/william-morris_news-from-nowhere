@@ -1,0 +1,1 @@
+This edition uses the text from the 1892 Kelmscott Press edition printed by Morris himself. Unfortunately the typeface used in that edition did not allow em dashes or italics. This Standard Ebooks edition has reverted the punctuation where possible back to the that found in the original Commonweal journal serialization.
