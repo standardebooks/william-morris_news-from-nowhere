@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/william-morris/news-from-nowhere</dc:identifier>
 		<dc:date>2023-11-07T21:12:26Z</dc:date>
@@ -41,12 +41,12 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85141635</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A man wakes up to find himself in a far-future socialist utopia.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A man wakes up to find himself in a far-future socialist utopia.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;William Guest wakes up to find himself transported to a future utopian society. This bucolic society functions despite the absence of private property, marriage, prisons, courts, schools, and central government. The people are happy, healthy, and hard working. As he travels through this revitalized England, he discovers how this society works and how it came to be.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/edward-bellamy"&gt;Edward Bellamy’s&lt;/a&gt; 1888 utopian novel &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/edward-bellamy/looking-backward"&gt;Looking Backward&lt;/a&gt;&lt;/i&gt; describes a very different future utopian society, where machines have reduced the need to work, and strong government redistributive policies have eliminated inequality. &lt;a href="https://standardebooks.org/ebooks/william-morris"&gt;Morris&lt;/a&gt;, in reviewing that book, disagreed with its conclusions, and &lt;i&gt;News from Nowhere&lt;/i&gt; presents his competing utopian vision. In Morris’ ideal society, work isn’t something to be eliminated by machines, but rather a way to exercise creativity and to grow closer both to nature and to others. Work is performed not through coercion but through genuine appreciation. Morris emphasizes the need to change not only the material aspects of capitalism, but also the way society views work, the environment, and the purpose of life.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;News from Nowhere&lt;/i&gt; is considered a landmark novel in anarchism and influenced many early twentieth century socialists. The first edition was serialized in the &lt;i&gt;Commonweal&lt;/i&gt; in 1890, before being published as a book, with some editorial changes, in 1891. In 1892, Morris published a final edition as one of the first books printed by his soon-to-be-legendary publishing company, the Kelmscott Press. It was printed by hand at his own home, and decorated and typeset by him using a typeface he designed.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3261</dc:source>
 		<dc:source>https://archive.org/details/Newsfromnowhere00MorrA</dc:source>
